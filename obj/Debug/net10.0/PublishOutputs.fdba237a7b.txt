@@ -1,0 +1,9 @@
+E:\Phoenix\CategoryApi\CategoryApi\obj\Debug\net10.0\PubTmp\Out\CategoryApi.exe
+E:\Phoenix\CategoryApi\CategoryApi\obj\Debug\net10.0\PubTmp\Out\appsettings.Development.json
+E:\Phoenix\CategoryApi\CategoryApi\obj\Debug\net10.0\PubTmp\Out\appsettings.json
+E:\Phoenix\CategoryApi\CategoryApi\obj\Debug\net10.0\PubTmp\Out\CategoryApi.dll
+E:\Phoenix\CategoryApi\CategoryApi\obj\Debug\net10.0\PubTmp\Out\CategoryApi.deps.json
+E:\Phoenix\CategoryApi\CategoryApi\obj\Debug\net10.0\PubTmp\Out\CategoryApi.runtimeconfig.json
+E:\Phoenix\CategoryApi\CategoryApi\obj\Debug\net10.0\PubTmp\Out\CategoryApi.pdb
+E:\Phoenix\CategoryApi\CategoryApi\obj\Debug\net10.0\PubTmp\Out\Microsoft.AspNetCore.OpenApi.dll
+E:\Phoenix\CategoryApi\CategoryApi\obj\Debug\net10.0\PubTmp\Out\Microsoft.OpenApi.dll
